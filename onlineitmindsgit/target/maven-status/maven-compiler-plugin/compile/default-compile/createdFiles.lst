@@ -1,0 +1,5 @@
+com\mailsend\SendMail.class
+com\mailsend\Mailer$2.class
+com\mailsend\FileUploadServlet.class
+com\mailsend\Mailer.class
+com\mailsend\Mailer$1.class
